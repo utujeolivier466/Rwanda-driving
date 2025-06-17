@@ -11,4 +11,4 @@ The **Rwanda Driving License (RDL)** is an institution responsible for issuing *
 To solve this, RDL decided to digitize their system by hiring a web developer to create a **web-based application** that stores and manages candidates’ information securely and efficiently
 
 ```bash
-git clone https://github.com/utujeolivier466/rdl-driving-license.git
+git clone https://github.com/utujeolivier466/Rwanda-driving.git
