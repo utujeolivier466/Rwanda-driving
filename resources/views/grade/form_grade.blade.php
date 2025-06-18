@@ -68,16 +68,16 @@
                 </div>
             </form>
             @else
-            <div class="bg-yellow-50 border border-yellow-200 rounded-md p-4">
-                <div class="flex">
-                    <div class="flex-shrink-0">
-                        <i class="fas fa-exclamation-triangle text-yellow-400"></i>
-                    </div>
-                    <div class="ml-3">
+                <div class="bg-yellow-50 border border-yellow-200 rounded-md p-4">
+                    <div class="flex">
+                        <div class="flex-shrink-0">
+                            <i class="fas fa-exclamation-triangle text-yellow-400"></i>
+                        </div>
+                        <div class="ml-3">
                         <h3 class="text-sm font-medium text-yellow-800">No Candidate Found</h3>
-                        <p class="text-sm text-yellow-700 mt-1">
+                            <p class="text-sm text-yellow-700 mt-1">
                             Please add a candidate first before adding grades.
-                        </p>
+                            </p>
                         <div class="mt-4">
                             <a href="{{ route('candidate') }}" class="text-sm font-medium text-blue-600 hover:text-blue-500">
                                 Go to Candidates →
